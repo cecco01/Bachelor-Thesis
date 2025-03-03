@@ -1,6 +1,6 @@
 # Bachelor-Thesis
 
-📌 #English Version
+📌 **English Version**
 
 This thesis focuses on the application of Artificial Intelligence (AI) and Explainable AI (XAI) techniques to enhance the detection of cyber intrusions in network systems. Traditional Intrusion Detection Systems (IDS) based on static rules have several limitations, such as the inability to detect zero-day attacks and a high rate of false positives. The use of Machine Learning (ML) provides a more adaptive approach, but the lack of transparency in ML models can make them difficult to interpret for security analysts and administrators.
 
@@ -10,7 +10,7 @@ Experimental analysis shows that both models achieve high accuracy levels (over 
 
 The findings highlight that integrating XAI into Intrusion Detection Systems not only enhances trust in model effectiveness but also provides security experts with valuable insights to strengthen cybersecurity defenses. This study represents a significant step toward adopting more interpretable and reliable AI-based detection systems, with potential applications in corporate network monitoring and protection against emerging threats.
 
-📌 #Versione in italiano
+📌 **Versione in italiano**
 
 Questa tesi si concentra sull’applicazione dell’Intelligenza Artificiale (IA) e delle tecniche di Explainable AI (XAI) per migliorare il rilevamento delle intrusioni informatiche nei sistemi di rete. I tradizionali Intrusion Detection System (IDS) basati su regole statiche presentano numerosi limiti, come l’incapacità di individuare attacchi zero-day e l’elevato numero di falsi positivi. L’uso del Machine Learning (ML) offre un approccio più adattivo, ma la mancanza di trasparenza nei modelli può renderli difficili da interpretare per analisti e amministratori di sicurezza.
 
